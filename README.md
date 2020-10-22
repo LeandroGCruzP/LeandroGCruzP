@@ -4,7 +4,7 @@
 
 ### Soy estudiante de Ingeniaría en Informática y desarrollador de software, también hago cursos de Udemy y de Rocketseat Brasil.
 
-- 🌱 Actualmente estudio inglés también, hay estoy poniendo talento 🤣
+- 🌱 Actualmente estudio inglés, estoy poniendo talento ahí 🤣
 - 👯 Siempre que puedo intento ayudar a otros desarrolladores 
 - 🥅 Mis metas para el 2020 es crear mi primer trabajo con react-native solito 😮
 - ⚡ Lo mejor es que en este momento estoy trabajando en la meta 2020 😀
