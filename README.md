@@ -2,7 +2,7 @@
 
 ## 😀 Sobre mi 
 
-### Soy estudiante de Ingeniaría en Informática y desarrollador de software, también hago cursos de Udemy y de Rocketseat Brasil.
+##### Soy estudiante de Ingeniaría en Informática y desarrollador de software, también hago cursos de Udemy y de Rocketseat Brasil.
 
 - 🌱 Actualmente estudio inglés, estoy poniendo talento ahí 🤣
 - 👯 Siempre que puedo intento ayudar a otros desarrolladores 
@@ -11,9 +11,9 @@
 
 ## 😎 Idiomas que manejo
 
-### Español y portugues nativos
+##### Español y portugues nativos
 
-### 😘📷 Sigueme si quieres en:
+## 😘 Redes Sociales:
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
 
@@ -23,7 +23,7 @@
 <!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 <!-- [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 
-### 🔧 Languages y herramientas que manejo:
+## 🔧 Languages y herramientas que manejo:
 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -44,3 +44,19 @@
 <!-- [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist] -->
 
 [instagram]: https://www.instagram.com/lea_gcruz/
+
+<br />
+<br />
+
+![Estadísticas de github](https://github-readme-stats.vercel.app/api?username=LeandroGCruzP&show_icons=true&theme=dark&locale=es)
+
+![Lenguages pincipales](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroGCruzP&theme=dark&layout=compact&locale=es&card_width=445)
+
+![Tarjeta Léame](https://github-readme-stats.vercel.app/api/pin/?username=LeandroGCruzP&repo=stacknavigator-with-tabnavigator)
+![Tarjeta Léame](https://github-readme-stats.vercel.app/api/pin/?username=LeandroGCruzP&repo=function-current-location)
+![Tarjeta Léame](https://github-readme-stats.vercel.app/api/pin/?username=LeandroGCruzP&repo=application-desktop-web-view-simple)
+![Tarjeta Léame](https://github-readme-stats.vercel.app/api/pin/?username=LeandroGCruzP&repo=platform-happy)
+![Tarjeta Léame](https://github-readme-stats.vercel.app/api/pin/?username=LeandroGCruzP&repo=platform-proffy)
+![Tarjeta Léame](https://github-readme-stats.vercel.app/api/pin/?username=LeandroGCruzP&repo=platform-be-the-hero)
+
+
