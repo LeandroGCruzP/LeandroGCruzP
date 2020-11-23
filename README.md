@@ -10,7 +10,7 @@
 
 ## 😀 Sobre mi 
 
-Me presento, tengo 22 años, soy de nacionalidad chilena <img src="./Chile.jpg" alt="Chile" height="15px" width="25px" /> y estoy felizmente casado con una garotinha brasileña <img align="center" src="./Brasil.png" alt="Brasil" height="15px" width="25px" />, por consecuencia se hablar portugués y español nativo porque vivi muchos años en Brasil.
+Me presento, tengo 23 años, soy de nacionalidad chilena <img src="./Chile.jpg" alt="Chile" height="15px" width="25px" /> y estoy felizmente casado con una garotinha brasileña <img align="center" src="./Brasil.png" alt="Brasil" height="15px" width="25px" />, por consecuencia se hablar portugués y español nativo porque vivi muchos años en Brasil.
 
 
 Actualmente soy estudiante de Ingeniaría en Informática y desarrollador de software autónomo, también hago cursos de Udemy y de Rocketseat Brasil todo relacionado al mundo de la programación o el análisis de datos.
