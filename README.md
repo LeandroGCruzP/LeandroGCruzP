@@ -18,10 +18,10 @@ Actualmente soy estudiante de Ingeniaría en Informática y desarrollador de sof
 
 Usa mi github para que te ayude con algunas funciones que podrías implementar en tus proyectos y si tienes consultas o quieres entrar en contacto conmigo usa mis redes sociales arriba.
 
-+ 🌱 Actualmente estudio inglés, estoy poniendo talento ahí 🤣
++ 🌱 Actualmente estudio inglés, le sigo poniendo talento ahí 🤣
 + 👯 Siempre que puedo intento ayudar a otros desarrolladores 
-+ 🥅 Mis metas para el 2020 es crear mi primer trabajo con react-native solito 😮
-+ ⚡ Lo mejor es que en este momento estoy trabajando en la meta 2020 😀
++ 🥅 Mis metas para el 2021 es aprender ingles intermedio y lograr um winter job de programación 😮
++ ⚡ Por ahora, sigo aprendiendo, siempre motivandome y buscando nuevas oportunidades 😀
 
 ## 😎 Idiomas que manejo
 
