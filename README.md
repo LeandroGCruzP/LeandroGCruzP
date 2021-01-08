@@ -6,9 +6,9 @@
   </a>
 </p>
 
-# 🙋‍ Hola, mi nombre es Leandro G. Cruz Pizarro 👋
+# 🙋‍ Hi, I'm Leandro G. Cruz Pizarro 👋
 
-## 😀 Sobre mi 
+## 😀 About me
 
 Me presento, tengo 23 años, soy de nacionalidad chilena <img src="./Chile.jpg" alt="Chile" height="15px" width="25px" /> y estoy felizmente casado con una garotinha brasileña <img align="center" src="./Brasil.png" alt="Brasil" height="15px" width="25px" />, por consecuencia se hablar portugués y español nativo porque vivi muchos años en Brasil.
 
@@ -21,6 +21,7 @@ Usa mi github para que te ayude con algunas funciones que podrías implementar e
 + 🌱 Actualmente estudio inglés, le sigo poniendo talento ahí 🤣
 + 👯 Siempre que puedo intento ayudar a otros desarrolladores 
 + 🥅 Mis metas para el 2021 es aprender ingles intermedio y lograr um winter job de programación 😮
++ 🥅 Otra meta es hacer un commit por dia en github 😮
 + ⚡ Por ahora, sigo aprendiendo, siempre motivandome y buscando nuevas oportunidades 😀
 
 ## 😎 Idiomas que manejo
