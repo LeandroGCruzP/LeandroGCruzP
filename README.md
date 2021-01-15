@@ -24,7 +24,7 @@ Use my github to help you with some functions that you could implement in your p
 
 ![Estadísticas de github](https://github-readme-stats.vercel.app/api?username=LeandroGCruzP&show_icons=true&theme=dark)
 
-![Lenguages pincipales](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroGCruzP&theme=dark&layout=compact&locale=es&card_width=445)
+![Lenguages pincipales](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroGCruzP&theme=dark&layout=compact&card_width=445)
 
 ![Tarjeta Léame](https://github-readme-stats.vercel.app/api/pin/?username=LeandroGCruzP&repo=stacknavigator-with-tabnavigator)
 ![Tarjeta Léame](https://github-readme-stats.vercel.app/api/pin/?username=LeandroGCruzP&repo=function-current-location)
