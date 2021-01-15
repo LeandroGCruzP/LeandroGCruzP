@@ -6,27 +6,23 @@
   </a>
 </p>
 
-# 🙋‍ Hi, I'm Leandro G. Cruz Pizarro 👋
+# 🙋‍ Hi dear, I'm Leandro G. Cruz Pizarro 👋
 
-## 😀 About me
+## 😎 About me
 
-Me presento, tengo 23 años, soy de nacionalidad chilena <img src="./Chile.jpg" alt="Chile" height="15px" width="25px" /> y estoy felizmente casado con una garotinha brasileña <img align="center" src="./Brasil.png" alt="Brasil" height="15px" width="25px" />, por consecuencia se hablar portugués y español nativo porque vivi muchos años en Brasil.
+I introduce myself, I am 23 years old, I am of Chilean <img src="./Chile.jpg" alt="Chile" height="15px" width="25px" /> nationality and I am happily married to a Brazilian garotinha <img align="center" src="./Brasil.png" alt="Brasil" height="15px" width="25px" />, consequently I speak Portuguese and native Spanish because I lived many years in Brazil.
 
+I am currently a Computer Engineering student and a freelance software developer, I also do Udemy and Rocketseat Brasil courses all related to the world of programming or data analysis.
 
-Actualmente soy estudiante de Ingeniaría en Informática y desarrollador de software autónomo, también hago cursos de Udemy y de Rocketseat Brasil todo relacionado al mundo de la programación o el análisis de datos.
+Use my github to help you with some functions that you could implement in your projects and if you have questions or want to contact me use my social networks above.
 
++ 🌱 I am currently studying English, I keep putting talent there. 🤣
++ 👯 Whenever I can I try to help other developers.
++ 🥅 My goals for 2021 is to learn intermediate English and achieve a winter programming job. 😮
++ 🥅 Another goal is to do one commit per day on github. 😮
++ ⚡ For now, I keep learning, always motivating myself and looking for new opportunities. 😀
 
-Usa mi github para que te ayude con algunas funciones que podrías implementar en tus proyectos y si tienes consultas o quieres entrar en contacto conmigo usa mis redes sociales arriba.
-
-+ 🌱 Actualmente estudio inglés, le sigo poniendo talento ahí 🤣
-+ 👯 Siempre que puedo intento ayudar a otros desarrolladores 
-+ 🥅 Mis metas para el 2021 es aprender ingles intermedio y lograr um winter job de programación 😮
-+ 🥅 Otra meta es hacer un commit por dia en github 😮
-+ ⚡ Por ahora, sigo aprendiendo, siempre motivandome y buscando nuevas oportunidades 😀
-
-## 😎 Idiomas que manejo
-
-![Estadísticas de github](https://github-readme-stats.vercel.app/api?username=LeandroGCruzP&show_icons=true&theme=dark&locale=es)
+![Estadísticas de github](https://github-readme-stats.vercel.app/api?username=LeandroGCruzP&show_icons=true&theme=dark)
 
 ![Lenguages pincipales](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroGCruzP&theme=dark&layout=compact&locale=es&card_width=445)
 
