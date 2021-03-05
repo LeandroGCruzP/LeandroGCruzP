@@ -26,11 +26,4 @@ Use my github to help you with some functions that you could implement in your p
 
 ![Lenguages pincipales](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroGCruzP&theme=dark&layout=compact&card_width=445)
 
-![Tarjeta Léame](https://github-readme-stats.vercel.app/api/pin/?username=LeandroGCruzP&repo=stacknavigator-with-tabnavigator)
-![Tarjeta Léame](https://github-readme-stats.vercel.app/api/pin/?username=LeandroGCruzP&repo=function-current-location)
-![Tarjeta Léame](https://github-readme-stats.vercel.app/api/pin/?username=LeandroGCruzP&repo=application-desktop-web-view-simple)
-![Tarjeta Léame](https://github-readme-stats.vercel.app/api/pin/?username=LeandroGCruzP&repo=platform-happy)
-![Tarjeta Léame](https://github-readme-stats.vercel.app/api/pin/?username=LeandroGCruzP&repo=platform-proffy)
-![Tarjeta Léame](https://github-readme-stats.vercel.app/api/pin/?username=LeandroGCruzP&repo=platform-be-the-hero)
-
 
