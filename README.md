@@ -2,7 +2,7 @@
 
 <p align="center"> 
   <a href="https://www.instagram.com/lea_gcruz/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Insta" height="28px" width="28px" />
+    <img align="center" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1614983781~hmac=8105d0eecb45623ad7563762d1126ea1" alt="Insta" height="28px" width="28px" />
   </a>
 </p>
 
