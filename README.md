@@ -1,4 +1,4 @@
-![BANNER](./BANNER-README.png)
+![BANNER](./banner-english.jpg)
 
 <p align="center"> 
   <a href="https://www.instagram.com/lea_gcruz/" target="blank">
