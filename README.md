@@ -19,7 +19,7 @@ I am currently a Computer Engineering student and a freelance software developer
 
 Use my github to help you with some functions that you could implement in your projects and if you have questions or want to contact me use my social networks above.
 
-+ 🌱 I am currently studying English, I keep putting talent there. 🤣
++ 🌱 I'm currently studying English, I keep putting talent there. 🤣
 + 👯 Whenever I can I try to help other developers.
 + 🥅 My goals for 2021 is to learn intermediate English and achieve a winter programming job. 😮
 + 🥅 Another goal is to do one commit per day on github. 😮
