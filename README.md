@@ -5,7 +5,7 @@
     <img align="center" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1614983781~hmac=8105d0eecb45623ad7563762d1126ea1" alt="Insta" height="28px" width="28px" />
   </a>
   <a href="https://www.linkedin.com/in/leandrogcruzp/" target="blank">
-    <img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615593112~hmac=77c07716c913645abfa7b6e9a599b3ca" alt="Linkedin" height="28px" width="28px" />
+    <img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1409/1409945.svg?token=exp=1618830607~hmac=9109dcb72e114844700df0e10277f6e6" alt="Linkedin" height="28px" width="28px" />
   </a>
 </p>
 
