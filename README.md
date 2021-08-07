@@ -13,7 +13,7 @@
 
 ## 😎 About me
 
-I introduce myself, I am 23 years old, I am of Chilean <img src="./Chile.jpg" alt="Chile" height="15px" width="25px" /> nationality and I am happily married to a Brazilian garotinha <img align="center" src="./Brasil.png" alt="Brasil" height="15px" width="25px" />, consequently I speak Portuguese and native Spanish because I lived many years in Brazil.
+I introduce myself, I am 23 years old, I am of Chilean <img src="./Chile.jpg" alt="Chile" height="15px" width="25px" /> nationality and I am happily married to a Brazilian garotinha <img align="center" src="./Brasil.png" alt="Brasil" height="15px" width="25px" />, consequently I speak Spanish and native Portuguese because I lived many years in Brazil.
 
 I am currently a Computer Engineering student and a freelance software developer, I also do Udemy and Rocketseat Brasil courses all related to the world of programming or data analysis.
 
