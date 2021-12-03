@@ -9,7 +9,7 @@
   </a>
 </p>
 
-# 🙋‍ Hi dear, I'm Leandro G. Cruz Pizarro 👋
+# Hi dear, I'm Leandro G. Cruz Pizarro 👋
 
 ## 😎 About me
 
