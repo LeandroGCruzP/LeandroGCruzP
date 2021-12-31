@@ -21,7 +21,7 @@ Use my github to help you with some functions that you could implement in your p
 
 + 🌱 I am currently studying English, I keep putting talent there. 🤣
 + 👯 Whenever I can I try to help other developers.
-+ 🥅 My goals for 2021 is to do one commit per day on github. 😮
++ 🥅 My goal for 2022 is to get a job and learn english!. 😮
 + ⚡ For now, I keep learning, always motivating myself and looking for new opportunities. 😀
 
 ![Estadísticas de github](https://github-readme-stats.vercel.app/api?username=LeandroGCruzP&show_icons=true&theme=dark)
