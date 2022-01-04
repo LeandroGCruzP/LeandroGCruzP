@@ -13,13 +13,13 @@
 
 ## 😎 About me!
 
-I introduce myself, I am 24 years old, I am of Chilean <img src="./Chile.jpg" alt="Chile" height="15px" width="25px" /> nationality and I am happily married to a Brazilian garotinha <img align="center" src="./Brasil.png" alt="Brasil" height="15px" width="25px" />, consequently I speak Spanish and native Portuguese because I lived many years in Brazil.
+I introduce myself, I'm 24 years old, I'm of Chilean <img src="./Chile.jpg" alt="Chile" height="15px" width="25px" /> nationality and I'm happily married to a Brazilian garotinha <img align="center" src="./Brasil.png" alt="Brasil" height="15px" width="25px" />, consequently I speak Spanish and native Portuguese because I lived many years in Brazil.
 
-I am currently a Computer Engineering student and a freelance software developer, I also do Udemy and Rocketseat Brasil courses all related to the world of programming or data analysis.
+I'm currently a Computer Engineering student and a freelance software developer, I also do Udemy and Rocketseat Brasil courses all related to the world of programming or data analysis.
 
 Use my github to help you with some functions that you could implement in your projects and if you have questions or want to contact me use my social networks above.
 
-+ 🌱 I am currently studying English, I keep putting talent there. 🤣
++ 🌱 I'm currently studying English, I keep putting talent there. 🤣
 + 👯 Whenever I can I try to help other developers.
 + 🥅 My goal for 2022 is to get a job and learn english!. 😮
 + ⚡ For now, I keep learning, always motivating myself and looking for new opportunities. 😀
