@@ -17,7 +17,9 @@
 ## 😎 Sobre mim!
 
 Eu tenho 24 anos, sou de nacionalidade chilena e felizmente casado com uma brasileira. Passei minha vida morando entre o Brasil e o Chile, consequentemente falo espanhol e português nativos, e no momento estou aprendendo a falar inglês.
+
 Em janeiro de 2022 terminei a faculdade de Engenharia da Computação, foram 4 anos de muito aprendizado. Em paralelo com os estudos fiz um desafio pessoal, que consistia em realizar pelo menos um commit por dia no Github no ano de 2021, e contentemente o realizei com êxito.
+
 Espero que possamos trabalhar juntos para evoluir e conquistar bons resultados.
 
 ### Objetivos 2022
