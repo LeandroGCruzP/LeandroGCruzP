@@ -7,22 +7,29 @@
   <a href="https://www.linkedin.com/in/leandrogcruzp/" target="blank">
     <img align="center" src="./linkedin.png" alt="Linkedin" height="28px" width="28px" />
   </a>
+  <a href="https://leh.vercel.app/" target="blank">
+    <img align="center" src="./www.png" alt="PortFolio" height="28px" width="28px" />
+  </a>
 </p>
 
-# Hi dear, I'm Leandro G. Cruz Pizarro 👋
+# Olá, eu sou Leandro G. Cruz Pizarro 👋
 
-## 😎 About me!
+## 😎 Sobre mim!
 
-I introduce myself, I'm 24 years old, I'm of Chilean <img src="./Chile.jpg" alt="Chile" height="15px" width="25px" /> nationality and I'm happily married to a Brazilian garotinha <img align="center" src="./Brasil.png" alt="Brasil" height="15px" width="25px" />, consequently I speak Spanish and native Portuguese because I lived many years in Brazil.
+Eu tenho 24 anos, sou de nacionalidade chilena e felizmente casado com uma brasileira. Passei minha vida morando entre o Brasil e o Chile, consequentemente falo espanhol e português nativos, e no momento estou aprendendo a falar inglês.
+Em janeiro de 2022 terminei a faculdade de Engenharia da Computação, foram 4 anos de muito aprendizado. Em paralelo com os estudos fiz um desafio pessoal, que consistia em realizar pelo menos um commit por dia no Github no ano de 2021, e contentemente o realizei com êxito.
+Espero que possamos trabalhar juntos para evoluir e conquistar bons resultados.
 
-I'm currently a Computer Engineering student and a freelance software developer, I also do Udemy and Rocketseat Brasil courses all related to the world of programming or data analysis.
+### Objetivos 2022
 
-Use my github to help you with some functions that you could implement in your projects and if you have questions or want to contact me use my social networks above.
++ 🥅 Aprender a falar inglês de forma fluente.
++ 🥅 Aprender Python e Power BI.
++ ⚡ Conseguir meu primeiro trabalho em programação. 😀
 
-+ 🌱 I'm currently studying English, I keep putting talent there. 🤣
-+ 👯 Whenever I can I try to help other developers.
-+ 🥅 My goal for 2022 is to get a job and learn english!. 😮
-+ ⚡ For now, I keep learning, always motivating myself and looking for new opportunities. 😀
+### Habilidades e tecnologias que trabalho
++ 🌎 Português e espanhol nativo.
++ 💻 React, React Native, Node, TypeScript, CSS3, HTML5, SaaS, MySQL, TypeORM, Git, entre outros.
++ 📰 Metodologia Scrum, IEEE 830, PMBOK, entre outros.
 
 ![Estadísticas de github](https://github-readme-stats.vercel.app/api?username=LeandroGCruzP&show_icons=true&theme=dark)
 
