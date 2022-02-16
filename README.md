@@ -16,16 +16,16 @@
 
 ## 😎 Sobre mim!
 
-Eu tenho 24 anos, sou de nacionalidade chilena e felizmente casado com uma brasileira. Passei minha vida morando entre o Brasil e o Chile, consequentemente falo espanhol e português nativos, e no momento estou aprendendo a falar inglês.
+Olá 👋, meu nome é Leandro, tenho 24 anos e sou de nacionalidade chilena felizmente casado com uma brasileira. Passei minha vida morando entre o Brasil e o Chile, consequentemente falo espanhol e português nativos, e no momento estou aprendendo a falar inglês.
 
-Em janeiro de 2022 terminei a faculdade de Engenharia da Computação, foram 4 anos de muito aprendizado. Em paralelo com os estudos fiz um desafio pessoal, que consistia em realizar pelo menos um commit por dia no Github no ano de 2021, e contentemente o realizei com êxito.
+Em janeiro de 2022 terminei a faculdade de Engenharia da Computação e atualmente estou fazendo o curso Ignite, ReacJS da Rocketseat. Em paralelo com os estudos fiz um desafio pessoal, que consistia em realizar pelo menos um commit por dia no Github no ano de 2021, esse objetivo o realizei com êxito e agora estou em busca da minha primeira oportunidade de trabalho e/ou estágio.
 
 Espero que possamos trabalhar juntos para evoluir e conquistar bons resultados.
 
 ### Objetivos 2022
 
-+ 🥅 Aprender a falar inglês de forma fluente.
-+ 🥅 Aprender Python e Power BI.
++ 🥅 Aprender a falar inglês.
++ 🥅 Aprender Power BI.
 + ⚡ Conseguir meu primeiro trabalho em programação. 😀
 
 ### Habilidades e tecnologias que trabalho
