@@ -26,6 +26,7 @@ Espero que possamos trabalhar juntos para evoluir e conquistar bons resultados.
 
 + 🥅 Aprender a falar inglês.
 + 🥅 Aprender Power BI.
++ 🥅 Aprender sobre testes automatizados.
 + ⚡ Conseguir meu primeiro trabalho em programação. 😀
 
 ### Habilidades e tecnologias que trabalho
