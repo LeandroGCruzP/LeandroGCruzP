@@ -32,7 +32,7 @@ I have a degree in computer engineering and I am currently working as a systems 
 
 ### Skills
 + 🌎 I speak native Portuguese and Spanish and my English is intermediate.
-+ 📰 Metodologia Scrum, IEEE 830, PMBOK.
++ 📰 Methodologies: Scrum, IEEE 830, PMBOK.
 + 📰 Clean Code and clean architecture.
 
 ![Statistics of github](https://github-readme-stats.vercel.app/api?username=LeandroGCruzP&show_icons=true&theme=dark)
