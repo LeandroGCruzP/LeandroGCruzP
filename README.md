@@ -12,30 +12,31 @@
   </a>
 </p>
 
-# Olá, eu sou Leandro G. Cruz Pizarro 👋
+## 😎 About me!
 
-## 😎 Sobre mim!
+Hi 👋, my name is Leandro but you can call me Le. I am 25 years old and I have been married for 5 years. I was born in Chile, but currently I live in Londrina, Paraná, Brazil.
 
-Olá 👋, meu nome é Leandro, tenho 24 anos e sou de nacionalidade chilena felizmente casado com uma brasileira. Passei minha vida morando entre o Brasil e o Chile, consequentemente falo espanhol e português nativos, e no momento estou aprendendo a falar inglês.
+I have a degree in computer engineering and I am currently working as a systems analyst. My main tools are:
 
-Em janeiro de 2022 terminei a faculdade de Engenharia da Computação e atualmente estou fazendo o curso Ignite, ReacJS da Rocketseat. Em paralelo com os estudos fiz um desafio pessoal, que consistia em realizar pelo menos um commit por dia no Github no ano de 2021, esse objetivo o realizei com êxito e agora estou em busca da minha primeira oportunidade de trabalho e/ou estágio.
++ ✅ Node
++ ✅ React
++ ✅ React Native
++ ✅ TypeScript
++ ✅ Prisma (ORM)
++ ✅ Git
 
-Espero que possamos trabalhar juntos para evoluir e conquistar bons resultados.
+### Objectives 2022
 
-### Objetivos 2022
++ 🥅 Learn spaek english.
++ ⚡ Getting my first programming job. 😀
 
-+ 🥅 Aprender a falar inglês.
-+ 🥅 Aprender Power BI.
-+ 🥅 Aprender sobre testes automatizados.
-+ ⚡ Conseguir meu primeiro trabalho em programação. 😀
+### Skills
++ 🌎 I speak native Portuguese and Spanish and my English is intermediate.
++ 📰 Metodologia Scrum, IEEE 830, PMBOK.
++ 📰 Clean Code and clean architecture.
 
-### Habilidades e tecnologias que trabalho
-+ 🌎 Português e espanhol nativo.
-+ 💻 React, React Native, Node, TypeScript, CSS3, HTML5, SaaS, MySQL, TypeORM, Git, entre outros.
-+ 📰 Metodologia Scrum, IEEE 830, PMBOK, entre outros.
+![Statistics of github](https://github-readme-stats.vercel.app/api?username=LeandroGCruzP&show_icons=true&theme=dark)
 
-![Estadísticas de github](https://github-readme-stats.vercel.app/api?username=LeandroGCruzP&show_icons=true&theme=dark)
-
-![Lenguages pincipales](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroGCruzP&theme=dark&layout=compact&card_width=445)
+![Languages ocuped](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroGCruzP&theme=dark&layout=compact&card_width=445)
 
 
