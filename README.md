@@ -27,13 +27,14 @@ I have a degree in computer engineering and I am currently working as a systems 
 
 ### Objectives 2022
 
-+ 🥅 Learn spaek english.
-+ ⚡ Getting my first programming job. 😀
++ 🥅 Learn spaek english. [working]
++ ⚡ Getting my first programming job. 😀 [ready]
 
 ### Skills
-+ 🌎 I speak native Portuguese and Spanish and my English is intermediate.
++ 🌎 I speak native Portuguese and Spanish.
 + 📰 Methodologies: Scrum, IEEE 830, PMBOK.
 + 📰 Clean Code and clean architecture.
++ 📰 React- React Native and NodeJS.
 
 ![Statistics of github](https://github-readme-stats.vercel.app/api?username=LeandroGCruzP&show_icons=true&theme=dark)
 
