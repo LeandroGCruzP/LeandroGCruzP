@@ -14,7 +14,7 @@
 
 ## 😎 About me!
 
-Hi 👋, my name is Leandro but you can call me Le. I am 27 years old and I have been married for 6 years. I was born in Chile, but currently I live in Londrina, Paraná, Brazil.
+Hi 👋, my name is Leandro, professional with experience in front-end development, mobile development, and systems analysis. Recognized for a collaborative and committed approach, with strong teamwork skills and the ability to adapt to new technologies and tackle challenges, ensuring project delivery with quality and within established deadlines.
 
 I have a degree in computer engineering and I am currently working as a systems analyst. My main tools are:
 
