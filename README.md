@@ -18,18 +18,12 @@ Hi 👋, my name is Leandro but you can call me Le. I am 27 years old and I have
 
 I have a degree in computer engineering and I am currently working as a systems analyst. My main tools are:
 
-+ ✅ React
-+ ✅ React Native
-+ ✅ Vue
++ ✅ React (Next)
++ ✅ React Native (Expo)
++ ✅ Vue (Nuxt)
 + ✅ JavaScript
 + ✅ TypeScript
 + ✅ Git
-
-### Objectives 2024
-
-+ 🥅 Learn speak english. [working]
-+ 🥅 Learn VueJS. [complete]
-
 
 ![Statistics of github](https://github-readme-stats.vercel.app/api?username=LeandroGCruzP&show_icons=true&theme=dark)
 
