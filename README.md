@@ -1,3 +1,5 @@
+![BANNER](./banner.png)
+
 <p align="center"> 
   <a href="https://www.linkedin.com/in/leandrogcruzp/" target="blank">
     <img align="center" src="./linkedin.png" alt="Linkedin" height="28px" width="28px" />
