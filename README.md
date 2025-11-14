@@ -6,11 +6,11 @@
   </a>
 </p>
 
-## 😎 About me!
+## 😎 About me
 
-Professional wit h experience in front-end development, mobile development, systems analysis, and re quirements analysis. Recognized for a collaborative and committed approach, wit h strong teamwork skills, adaptability to new technologies, and t he ability to face new challenges, ensuring pro ject delivery wit h quality and wit hin established deadlines.
+Professional with experience in front-end and mobile development, systems analysis, and requirements gathering. Recognized for a collaborative and committed work style, strong teamwork skills, adaptability to new technologies, and the ability to take on new challenges while ensuring high-quality, on-time delivery.
 
-I have a degree in computer engineering and I am currently working as a systems analyst. My main tools are:
+I hold a degree in Computer Engineering and currently work as a Systems Analyst. My main technologies and tools include:
 
 + ✅ JavaScript
 + ✅ TypeScript
@@ -23,6 +23,14 @@ I have a degree in computer engineering and I am currently working as a systems 
 + ✅ Node
 + ✅ Git
 
+### 🌎 Languages
+
++ 🇧🇷 Portuguese (native)
++ 🇨🇱 Spanish (native)
++ 🇺🇸 English (intermediate)
+
+### 📊 GitHub Statistics  
 ![Statistics of github](https://github-readme-stats.vercel.app/api?username=LeandroGCruzP&show_icons=true&theme=dark)
 
+### 💬 Languages Used  
 ![Languages ocuped](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroGCruzP&theme=dark&layout=compact&card_width=445)
