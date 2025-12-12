@@ -30,7 +30,7 @@ I hold a degree in Computer Engineering and currently work as a Systems Analyst.
 + 🇺🇸 English (intermediate)
 
 ### 📊 GitHub Statistics  
-![Statistics of github](https://github-readme-stats.vercel.app/api?username=LeandroGCruzP&show_icons=true&theme=dark)
+![Statistics of github](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LeandroGCruzP&show_icons=true&theme=dark)
 
 ### 💬 Languages Used  
-![Languages ocuped](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroGCruzP&theme=dark&layout=compact&card_width=445)
+![Languages Used](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeandroGCruzP&theme=dark&layout=compact&card_width=445)
