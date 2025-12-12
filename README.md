@@ -1,36 +1,48 @@
 ![BANNER](./banner.png)
 
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/leandrogcruzp/" target="blank">
-    <img align="center" src="./linkedin.png" alt="Linkedin" height="28px" width="28px" />
+### 📬 Contact
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/leandrogcruzp/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
   </a>
-</p>
+  <a href="mailto:leandrogcruzp@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" />
+  </a>
+</div>
 
-## 😎 About me
+## 👋 Hi, I'm Leandro Cruz
 
-Professional with experience in front-end and mobile development, systems analysis, and requirements gathering. Recognized for a collaborative and committed work style, strong teamwork skills, adaptability to new technologies, and the ability to take on new challenges while ensuring high-quality, on-time delivery.
+Frontend & Mobile Developer with experience in React, Vue, Flutter, and cross-platform apps.  
+Passionate about clean code, UI/UX, and solving problems with modern, scalable solutions.
 
-I hold a degree in Computer Engineering and currently work as a Systems Analyst. My main technologies and tools include:
+### 🚀 What I Do
 
-+ ✅ JavaScript
-+ ✅ TypeScript
-+ ✅ React
-+ ✅ Next
-+ ✅ React Native (Expo)
-+ ✅ Vue
-+ ✅ Nuxt
-+ ✅ Flutter
-+ ✅ Node
-+ ✅ Git
+- Build high-quality interfaces using **React, Next.js, Vue, Nuxt**  
+- Develop mobile apps using **React Native (Expo) & Flutter**  
+- Create scalable front-end architectures  
+- Integrate APIs and optimize performance  
+- Deliver clean, maintainable, and well-structured code  
+
+### 🛠️ Tech Stack
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxt,flutter,nodejs,git,github" />
+</div>
+
+### 💼 About My Career
+
+I hold a degree in Computer Engineering and currently work as a Frontend Developer.  
+I’m recognized for teamwork, problem-solving, adaptability, and high-quality deliveries.
 
 ### 🌎 Languages
 
-+ 🇧🇷 Portuguese (native)
-+ 🇨🇱 Spanish (native)
-+ 🇺🇸 English (intermediate)
++ 🇧🇷 Portuguese: native
++ 🇨🇱 Spanish: native
++ 🇺🇸 English: intermediate
 
 ### 📊 GitHub Statistics  
-![Statistics of github](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LeandroGCruzP&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeandroGCruzP&show_icons=true&theme=dark)
 
-### 💬 Languages Used  
-![Languages Used](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeandroGCruzP&theme=dark&layout=compact&card_width=445)
+### 🔥 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroGCruzP&layout=compact&theme=dark)
