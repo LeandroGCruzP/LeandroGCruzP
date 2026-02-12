@@ -32,7 +32,7 @@ Passionate about clean code, UI/UX, and solving problems with modern, scalable s
 
 ### 💼 About My Career
 
-I hold a degree in Computer Engineering and currently work as a Frontend Developer.  
+I hold a degree in Software Engineer and currently work as a Frontend Developer.  
 I’m recognized for teamwork, problem-solving, adaptability, and high-quality deliveries.
 
 ### 🌎 Languages
